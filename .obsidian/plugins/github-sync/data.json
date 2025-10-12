@@ -1,5 +1,5 @@
 {
-  "remoteURL": "git@github.com:Harish-Naruto/Vault.git",
+  "remoteURL": "https://github.com/Harish-Naruto/Vault.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": false,
