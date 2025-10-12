@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "5932d42dd87f18d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "889a183b73c36045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2be2e2a5c65a27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f62049b416cd2ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a400f197a9e229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc13c02f037925e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e1abff07e87ad9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aba5c480aff89c44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71c134feb78a44eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0b8a4d4a48d468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0612239198236c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rough/Function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Function"
+            }
+          },
+          {
+            "id": "cddeee172f890e12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rough/Function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Function"
+            }
+          },
+          {
+            "id": "4a54013da7efabca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e7f9e2f00910462",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rough/Function.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Function"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "cc13c02f037925e0",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.base",
+    "Rough/Array.md",
+    "Rough/Slices.md",
+    "Rough/Range.md",
+    "Rough/Go.md",
+    "Rough/Variadic functions.md",
+    "Notes/Go/Syntax/Function.md",
+    "Untitled.canvas",
+    "Notes/Go/Standard Library/Go strings Package.md",
+    "Notes/Go/Test/Example Documentation.md",
+    "Notes/Go/Test/BenchMark.md",
+    "Notes/Go/Standard Library",
+    "Notes/Go/Syntax",
+    "Notes/Go/Test",
+    "Notes/Go",
+    "Untitled",
+    "images",
+    "Notes/Go/Syntax/Loop.md",
+    "Notes/Go/Syntax/If-Else.md",
+    "Notes/Go/Syntax/Constants.md",
+    "images/Pasted image 20251007001741.png",
+    "Notes/Go/Syntax/Switch.md",
+    "2025-10-06.md",
+    "Notes/Go/Syntax/Variables.md",
+    "go.md",
+    "Welcome.md",
+    "Notes",
+    "Rough"
+  ]
+}
