@@ -11,10 +11,14 @@
             "id": "1a2be2e2a5c65a27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Go/Syntax/Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Array"
             }
           }
         ]
@@ -168,9 +172,9 @@
   },
   "active": "cc13c02f037925e0",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.base",
-    "Rough/Array.md",
+    "Untitled.md",
+    "Notes/Go/Syntax/Array.md",
     "Rough/Slices.md",
     "Rough/Range.md",
     "Rough/Go.md",
