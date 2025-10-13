@@ -3,6 +3,8 @@
 slices are typed only by the elements they contain (not the number of elements). An uninitialized slice equals to nil and has length 0.
 slices are same as [[array]] but they are without size
 
+way to iterate over slices are mentioned in [[Range]] .
+
 **Syntax :** `var var_name []datatype`
 
 To create a slice of N-length we use builtin **make**
