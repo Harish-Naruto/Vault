@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Go/Syntax/Variadic functions.md",
+                "file": "Notes/Go/Syntax/Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variadic functions"
+              "title": "Struct"
+            }
+          },
+          {
+            "id": "d00c0aaf0e22afa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Go/Test/table-driven tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "table-driven tests"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GoSyntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,19 +187,25 @@
   },
   "active": "cc13c02f037925e0",
   "lastOpenFiles": [
-    "Notes/Go/Syntax/Range.md",
-    "Notes/Go/Syntax/Array.md",
+    "Notes/Go/Test/Example Documentation.md",
+    "Notes/Go/Test/BenchMark.md",
+    "Notes/Go/Test/table-driven tests.md",
+    "Notes/Go/Syntax/Interface.md",
+    "Notes/Go/Syntax/Methods.md",
+    "Notes/Go/Syntax/Constants.md",
     "Notes/Go/Syntax/Slices.md",
-    "Notes/Go/Syntax/Variadic functions.md",
+    "Notes/Go/Syntax/Struct.md",
+    "Rough/table drive test.md",
     "Rough/Go.md",
+    "Notes/Go/Standard Library/Go strings Package.md",
     "Notes/Go/References.md",
+    "Notes/Go/Syntax/Array.md",
+    "Notes/Go/Syntax/Range.md",
+    "Notes/Go/Syntax/Variadic functions.md",
     "Untitled.base",
     "Untitled.md",
     "Notes/Go/Syntax/Function.md",
     "Untitled.canvas",
-    "Notes/Go/Standard Library/Go strings Package.md",
-    "Notes/Go/Test/Example Documentation.md",
-    "Notes/Go/Test/BenchMark.md",
     "Notes/Go/Standard Library",
     "Notes/Go/Syntax",
     "Notes/Go/Test",
@@ -193,7 +214,6 @@
     "images",
     "Notes/Go/Syntax/Loop.md",
     "Notes/Go/Syntax/If-Else.md",
-    "Notes/Go/Syntax/Constants.md",
     "images/Pasted image 20251007001741.png",
     "Notes/Go/Syntax/Switch.md",
     "2025-10-06.md",
