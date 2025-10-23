@@ -1,5 +1,7 @@
 #Golang #GoSyntax [[Go]]
 
+The `var` keyword allows us to define values global to the package.
+
 Syntax for declaration :
 ```
 var variable_name dataType = value
