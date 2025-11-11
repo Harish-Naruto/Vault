@@ -11,14 +11,10 @@
             "id": "2fa4f126d32e8a93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Go/Syntax/Maps.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Maps"
+              "title": "New tab"
             }
           }
         ]
@@ -172,13 +168,20 @@
   },
   "active": "cc13c02f037925e0",
   "lastOpenFiles": [
-    "Notes/Go/Syntax/Range.md",
-    "Notes/Go/Syntax/Maps.md",
+    "Notes/Go/Syntax/GoRoutines.md",
+    "Notes/Go/Syntax/Channels.md",
     "Rough/Go.md",
-    "Notes/Go/Syntax/Struct.md",
+    "Rough/Dependency injections.md",
     "Notes/Go/Syntax/Function.md",
-    "Notes/Go/Syntax/Pointers.md",
     "Notes/Go/Syntax/Constants.md",
+    "Notes/Go/Syntax/Array.md",
+    "Notes/Go/References.md",
+    "Notes/Go/Standard Library/Go strings Package.md",
+    "Rough/Mocking.md",
+    "Notes/Go/Syntax/Maps.md",
+    "Notes/Go/Syntax/Range.md",
+    "Notes/Go/Syntax/Struct.md",
+    "Notes/Go/Syntax/Pointers.md",
     "Notes/Go/Syntax/Variables.md",
     "Notes/Go/Test/table-driven tests.md",
     "Notes/Go/Test/Example Documentation.md",
@@ -187,9 +190,6 @@
     "Notes/Go/Syntax/Methods.md",
     "Notes/Go/Syntax/Slices.md",
     "Rough/table drive test.md",
-    "Notes/Go/Standard Library/Go strings Package.md",
-    "Notes/Go/References.md",
-    "Notes/Go/Syntax/Array.md",
     "Notes/Go/Syntax/Variadic functions.md",
     "Untitled.base",
     "Untitled.md",
@@ -203,10 +203,6 @@
     "Notes/Go/Syntax/Loop.md",
     "Notes/Go/Syntax/If-Else.md",
     "images/Pasted image 20251007001741.png",
-    "Notes/Go/Syntax/Switch.md",
-    "2025-10-06.md",
-    "go.md",
-    "Welcome.md",
     "Notes",
     "Rough"
   ]
