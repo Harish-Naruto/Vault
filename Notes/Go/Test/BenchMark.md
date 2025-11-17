@@ -1,4 +1,4 @@
-#Golang [[Go]]  #GoExtra #GoTest 
+#Golang   #GoExtra #GoTest 
 
 
 [Benchmarks](https://pkg.go.dev/testing#hdr-Benchmarks) in **Go**  are a way to measure the performance, or speed, of a specific piece of code, like a function or a method. They help us understand how fast our code runs and how it scales under different conditions.

@@ -1,4 +1,4 @@
-[[Go]]  #GoExtra #GoTest #Golang 
+ #GoExtra #GoTest #Golang 
 
 
 ## What are Go Examples?

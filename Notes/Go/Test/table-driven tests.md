@@ -1,4 +1,4 @@
-[Go] #GoTest #Golang #GoExtra 
+ #GoTest #Golang #GoExtra 
 
 [Table-driven](https://go.dev/wiki/TableDrivenTests) testing is a common and powerful pattern in Go that helps you write clearer, more concise, and easily extensible tests. Instead of writing a separate test function for every single case, you define a collection (a "table") of test cases and iterate through them in a single test function.
 

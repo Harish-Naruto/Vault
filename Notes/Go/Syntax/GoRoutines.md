@@ -1,4 +1,4 @@
-[Go] #Golang #GoSyntax 
+ #Golang #GoSyntax 
 # Understanding Go Routines
 
 A goroutine is a lightweight thread of execution managed by the Go runtime. They are the core building block for concurrency in Go, allowing you to run many tasks simultaneously.

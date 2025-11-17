@@ -1,4 +1,4 @@
-[Go] #GoSyntax #Golang 
+#GoSyntax #Golang 
 
 Methods are only used for struct types and types
 #### Syntax

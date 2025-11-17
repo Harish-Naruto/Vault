@@ -1,4 +1,4 @@
-#Golang #GoSyntax [[Go]]
+#Golang #GoSyntax
 
 
 For is Go's only looping construct 

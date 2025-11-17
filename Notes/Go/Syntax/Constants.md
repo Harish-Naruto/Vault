@@ -1,4 +1,4 @@
-[[Variables]]  [[Go]] #Golang #GoSyntax 
+[[Variables]]  #Golang #GoSyntax 
 
 This are same as variables but shorthand can't be used here only difference is that  ***Constant Expressions perform arithmetic with arbitrary precision***.
 

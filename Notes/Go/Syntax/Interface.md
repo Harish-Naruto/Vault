@@ -1,4 +1,4 @@
-[Go] #Golang #GoSyntax 
+ #Golang #GoSyntax 
 
 An interface in Go is a **custom type** that defines a set of method signatures. It acts as a **contract**. Any other type that has all the methods listed in the interface's contract is said to "satisfy" or "implement" the interface.
 

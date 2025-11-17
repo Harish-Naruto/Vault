@@ -1,4 +1,4 @@
-#Golang [[Go]] #GoSyntax
+#Golang  #GoSyntax
 
 ```
 func functionName(parameter1 type1, parameter2 type2) returnType {

@@ -1,4 +1,4 @@
-#Golang #GoSyntax  [[Go]]
+#Golang #GoSyntax  
 
 ```
 package main

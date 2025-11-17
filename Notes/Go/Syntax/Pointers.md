@@ -1,4 +1,4 @@
-[Go] #GoSyntax #Golang 
+ #GoSyntax #Golang 
 Pointers are pointer nothing new here just another syntax
 this is same as other language 
 

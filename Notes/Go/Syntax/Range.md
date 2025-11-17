@@ -1,4 +1,4 @@
-[[Go]] #Golang #GoSyntax 
+ #Golang #GoSyntax 
 
 `range` on arrays and slices provides both the index and value for each entry. Above we didn’t need the index, so we ignored it with the blank identifier `_`. Sometimes we actually want the indexes though.
 ```

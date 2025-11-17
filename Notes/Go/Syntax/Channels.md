@@ -1,3 +1,4 @@
+#GoSyntax #Golang 
 # Understanding Go Channels
 
 In Go, a channel is a typed "pipe" that provides a mechanism for goroutines to communicate with each other and synchronize their execution.

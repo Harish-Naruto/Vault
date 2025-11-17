@@ -1,4 +1,4 @@
-#Golang [[Go]]  #IMP_PACKAGE
+#Golang #IMP_PACKAGE
 
 A quick reference guide to the most commonly used functions in Go's built-in `strings` package. This package provides a rich set of functions for string manipulation.
 

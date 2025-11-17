@@ -1,4 +1,4 @@
-#Golang #GoSyntax [[Go]]
+#Golang #GoSyntax 
 
 The `var` keyword allows us to define values global to the package.
 
