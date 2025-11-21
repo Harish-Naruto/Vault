@@ -38,7 +38,7 @@ fmt.Println(t.Name()) // "int"
 
 This represents the _run-time value_ of an object. It's a container for the actual data (e.g., the number `10`, the string `"hello"`), along with methods to inspect and _modify_ that data.
 
-You get a `reflect.Value` using `reflect.ValueOf()`.
+You get a `reflect.V3alue` using `reflect.ValueOf()`.
 
 ```
 var x int = 10

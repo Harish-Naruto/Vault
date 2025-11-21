@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8664c05b055513ae",
+        "id": "843b9c1d71a9f330",
         "type": "tabs",
         "children": [
           {
-            "id": "61574feff6f10e63",
+            "id": "153ef8ab1666b541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Go/Standard Library/Reflect.md",
+                "file": "Notes/Go/Standard Library/Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflect"
-            }
-          },
-          {
-            "id": "4b06efdb24406cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Go/Test/Reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reflection"
+              "title": "Sync"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,16 +170,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4b06efdb24406cf2",
+  "active": "153ef8ab1666b541",
   "lastOpenFiles": [
-    "Notes/Web3/INTRODUCTION TO BLOCKCHAIN AND CRYPTOGRAPHY.md",
-    "Notes/Go/Standard Library/Go strings Package.md",
+    "Notes/Go/Standard Library/Mutex.md",
+    "Notes/Go/Standard Library/Sync.md",
+    "Notes/Go/Standard Library/Channel VS Mutex.md",
+    "Notes/Web3/Web3.md",
     "Notes/Go/Standard Library/Reflect.md",
+    "Notes/Go/Syntax/GoRoutines.md",
+    "Notes/Go/Test/Reflection.md",
+    "Notes/Go/Standard Library/Go strings Package.md",
     "Notes/Go/Syntax/Array.md",
     "Notes/Go/Syntax/Channels.md",
     "Notes/Go/Syntax/Constants.md",
     "Notes/Go/Syntax/Function.md",
-    "Notes/Go/Syntax/GoRoutines.md",
     "Notes/Go/Syntax/If-Else.md",
     "Notes/Go/Syntax/Interface.md",
     "Notes/Go/Syntax/Loop.md",
@@ -209,10 +198,6 @@
     "Notes/Go/Syntax/Variadic functions.md",
     "Notes/Go/Test/BenchMark.md",
     "Notes/Go/Test/Example Documentation.md",
-    "Rough/Go.md",
-    "Notes/Go/Test/table-driven tests.md",
-    "Notes/Go/Test/httptest.md",
-    "Notes/Go/Test/Reflection.md",
     "Notes/Web3",
     "Untitled.base",
     "Untitled.canvas",
